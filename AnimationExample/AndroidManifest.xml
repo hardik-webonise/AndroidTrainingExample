@@ -38,6 +38,12 @@
         <activity
             android:name="com.androidtraining.animationexample.SlidingPagerActivity"
             android:label="@string/app_name" />
+        <activity
+            android:name="com.androidtraining.animationexample.SlideUpActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.androidtraining.animationexample.SlideDownActivity"
+            android:label="@string/app_name" />
     </application>
 
 </manifest>
